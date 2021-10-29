@@ -23,3 +23,5 @@ Contact me or feel free to change the project at [GitHub](https://github.com/Rui
 ## Contribute
 Head Over to [GitHub](https://github.com/Rui1009/ThatDayTheme) to contribute.
 
+## License
+[MIT License](https://github.com/Rui1009/ThatDayTheme/blob/master/LICENSE.md)
