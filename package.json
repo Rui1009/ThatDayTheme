@@ -2,8 +2,8 @@
     "name": "thatdaytheme",
     "displayName": "ThatDayTheme",
     "description": "The color theme inspired by our priceless memories of youth. ",
-    "icon": "https://dotup.org/uploda/dotup.org2631839.jpg",
-    "publisher": "rui",
+    "icon": "youthImage.jpeg",
+    "publisher": "rui9109",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.61.0"
