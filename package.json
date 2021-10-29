@@ -4,7 +4,7 @@
     "description": "The color theme inspired by our priceless memories of youth. ",
     "icon": "youthImage.jpeg",
     "publisher": "rui9109",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.61.0"
     },
